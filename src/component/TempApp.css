@@ -26,3 +26,12 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: large;
 }
+
+.flex-fix {
+  display: flex;
+  justify-content: space-between;
+}
+
+.location-info {
+  color: black;
+}
