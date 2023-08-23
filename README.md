@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Live App
-https://64e3625034dadc144968e102--chimerical-liger-dd43d7.netlify.app/
+https://64e5a04a4cfdae236893a557--brilliant-vacherin-636a6e.netlify.app/
 
 
 
